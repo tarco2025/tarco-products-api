@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "name": "LeakBarrier BarrierKraft 60",
+      "description": "Asphalt saturated kraft building paper designed for use behind various claddings like stucco, stone, wood, vinyl, and fiber cement siding.",
+      "category": "Building Envelope",
+      "product_url": "https://www.tarcoroofing.com/building-envelope-products/barrierkraft-60"
+    },
+    {
+      "name": "LeakBarrier BG700™",
+      "description": "Premium self-adhering SBS modified bituminous membrane with high strength cross laminated polyethylene film.",
+      "category": "Building Envelope",
+      "product_url": "https://www.tarcoroofing.com/building-envelope-products/bg700"
+    },
+    {
+      "name": "LeakBarrier 25RA",
+      "description": "Premium-grade SBS self-adhered flashing membrane designed for superior moisture protection in critical areas of construction.",
+      "category": "Building Envelope",
+      "product_url": "https://www.tarcoroofing.com/building-envelope-products/25ra"
+    },
+    {
+      "name": "LeakBarrier Butyl Flashing",
+      "description": "High-performance, self-adhered membrane in waterproofing technology featuring a butyl adhesive and an engineered polyethylene film.",
+      "category": "Building Envelope",
+      "product_url": "https://www.tarcoroofing.com/building-envelope-products/butyl"
+    },
+    {
+      "name": "EasyLay UDL Basic",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/mechanically-attached/easylay-udl-basic"
+    },
+    {
+      "name": "Fiberglass Base Sheet",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/mechanically-attached/fiberglass-base-sheet"
+    },
+    {
+      "name": "EasyNailBase",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/mechanically-attached/easynailbase"
+    },
+    {
+      "name": "EasyLay UDL 15",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/mechanically-attached/easylay-udl-15"
+    },
+    {
+      "name": "LeakBarrier EasyStick Plus™",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/self-adhered/easystick-plus"
+    },
+    {
+      "name": "LeakBarrier EasyBase™",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/self-adhered/easybase"
+    },
+    {
+      "name": "Fiberglass Mineral Surface Roll Roofing",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/low-slope-roofing/hot-mopped/fiberglass-mineral-roll"
+    },
+    {
+      "name": "Asphalt Saturated Organic Felt",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/mechanically-attached/asphalt-saturated-organic-felt"
+    },
+    {
+      "name": "ValleyFlash™",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/mechanically-attached/valleyflash"
+    },
+    {
+      "name": "LeakBarrier PS200MU",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/mechanically-attached/ps200mu"
+    },
+    {
+      "name": "LeakBarrier MS300",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/self-adhered/ms300"
+    },
+    {
+      "name": "LeakBarrier NR600 Ultra",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/self-adhered/nr600-ultra"
+    },
+    {
+      "name": "LeakBarrier FS500HT",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/self-adhered/fs500ht"
+    },
+    {
+      "name": "Quick Roll Shingle Starter",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/shingles/self-adhered/quick-roll-shingle-starter"
+    },
+    {
+      "name": "ASTM Organic Mineral Surface Tile Underlayment",
+      "category": "Roofing",
+      "product_url": "https://www.tarcoroofing.com/products/roofapp/tiles/hot-mopped/organic-mineral-surface-tile"
+    }
+  ]
+}
